@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Varsha",
+    "academic_year": "3rd Year",
+    "skills": ["Python", "Machine Learning", "SQL"],
+    "interests": ["Data Science", "AI"],
+    "preferred_duration": "3 months"
+  },
+  {
+    "name": "Manoj",
+    "academic_year": "1st Year",
+    "skills": ["Python", "Machine Learning", "SQL"],
+    "interests": ["Data Science", "AI"],
+    "preferred_duration": "3 months"
+  },
+  {
+    "name": "Anita",
+    "academic_year": "2nd Year",
+    "skills": ["Java", "Web Development", "HTML"],
+    "interests": ["Frontend Development", "UI/UX Design"],
+    "preferred_duration": "6 months"
+  },
+  {
+    "name": "Rajesh",
+    "academic_year": "4th Year",
+    "skills": ["C++", "Data Structures", "Algorithms"],
+    "interests": ["Competitive Programming", "System Design"],
+    "preferred_duration": "1 month"
+  },
+  {
+    "name": "Priya",
+    "academic_year": "3rd Year",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "interests": ["Full Stack Development", "Web Development"],
+    "preferred_duration": "3 months"
+  }
+]

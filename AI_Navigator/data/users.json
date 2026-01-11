@@ -1,0 +1,15 @@
+[
+  {
+    "user_id": 1,
+    "username": "Varsha20",
+    "email": "varshamithinti@gmail.com",
+    "full_name": "MITHINTI VARSHINI",
+    "password": "0446fc8cfe8b8244b0b1bdaf04fd8da55ee91e9cefcee58cd440e07e006751e9",
+    "created_at": "2025-12-27 15:14:32",
+    "profile": {
+      "skills": [],
+      "interests": [],
+      "preferred_duration": "3 months"
+    }
+  }
+]

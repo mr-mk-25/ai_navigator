@@ -1,0 +1,6 @@
+python>=3.9
+streamlit          # UI (optional but recommended)
+pandas              # Data handling
+numpy               # Scoring logic
+datetime            # Deadline comparison
+scikit-learn        # (Optional) cosine similarity
